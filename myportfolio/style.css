@@ -96,7 +96,7 @@ i {
 }
 .about {
   height: 370px;
-  width: 360px;
+  width: 400px;
   background-color: white;
   margin-left: 10%;
   margin-top: 10%;
@@ -125,25 +125,25 @@ a{
   border-radius: 5%;
 
   height: 210px;
-  width: 360px;
+  width: 400px;
   background-image: url(Capture.PNG);
   background-size: cover;
   background-repeat: no-repeat;
 }
 .links .two .about{
     height: 370px;
-    width: 360px;
+    width: 400px;
     background-color: white;
     margin-left: 10%;
     margin-top: 10%;
     color: black;
-    border-radius: 5%;
+    /* border-radius: 5%; */
 
 }
 .links .two .about .ss{
     border-radius: 5%;
     height: 210px;
-    width: 360px;
+    width: 400px;
     background-image: url(Capture2.PNG);
     background-size: cover;
     background-repeat: no-repeat;
@@ -161,8 +161,19 @@ a{
 .links .two .about #three{
   border-radius: 5%;
   height: 210px;
-  width: 360px;
+  width: 400px;
+
   background-image: url(Capture3.PNG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
+.links .two .about #four{
+  border-radius: 5%;
+  height: 210px;
+  width: 400px;
+  background-image: url(Capture4.PNG);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -203,6 +214,13 @@ a{
       width: 300px;
 
   }
+  .links .two .about #four{
+      
+    height: 210px;
+    width: 300px;
+    background-position: left;
+
+}
     .ss{
         height: 210px;
         width: 300px;
