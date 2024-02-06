@@ -1,6 +1,9 @@
 /* *{
     color: white;
 } */
+body{
+  margin: 0%;
+}
 .bgimg {
   background-image: url(imresizer-1706278348813.jpg);
   background-size: contain;
