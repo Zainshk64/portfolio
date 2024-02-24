@@ -192,6 +192,16 @@ a{
   background-position: center;
 
 }
+.links .two .about #six{
+  border-radius: 5%;
+  height: 210px;
+  width: 400px;
+  background-image: url(Capture6.PNG);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
 
 @media screen and (max-width: 800px) {
   .myinfo .text h4{
@@ -204,45 +214,51 @@ a{
         margin-right: 10%;
     
     }.links .one,.two{
-        margin-bottom: 10%;
+        margin-bottom: 15%;
     }
     .about{
         height: 370px;
-        width: 300px;
+        width: 350px;
 
     }
     .links .two .about{
         height: 370px;
-        width: 300px;
+        width: 350px;
 
     }
     .links .two .about .ss{
         height: 210px;
-        width: 300px;
+        width: 350px;
 
     }
     .links .two .about #three{
       
       height: 210px;
-      width: 300px;
+      width: 350px;
 
   }
   .links .two .about #four{
       
     height: 210px;
-    width: 300px;
+    width: 350px;
     background-position: left;
 
 }
 .links .two .about #five{
       
   height: 210px;
-  width: 300px;
+  width: 350px;
+
+}
+.links .two .about #six{
+      
+  height: 210px;
+  width: 350px;
 
 }
     .ss{
         height: 210px;
-        width: 300px;
+        width: 350px;
 
     }
     
